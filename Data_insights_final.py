@@ -32,8 +32,6 @@ openai_api_key = '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'
 st.set_page_config(page_title='🤖 Data Analysis Assistant')
 st.title('🤖 Data Analysis Assistant')
 st.header('To use this app you will need to have an OpenAI key, please use this site  to sign up to recieve a key')
-st.subheader('https://auth0.openai.com/u/login/identifier?state=hKFo2SA3MDA3cGRoYm52VTBkd3htRDRlbllRTEEzTmlZMUtuWqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIHVHWHQwRHozX1pKSFdGYnE3Y1hrb2VKOGJZRlhJemJKo2NpZNkgRFJpdnNubTJNdTQyVDNLT3BxZHR3QjNOWXZpSFl6d0Q')
-
 
 # In[78]:
 
