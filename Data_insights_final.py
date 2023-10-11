@@ -31,7 +31,7 @@ openai_api_key = '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'
 
 st.set_page_config(page_title='🤖 Data Analysis Assistant')
 st.title('🤖 Data Analysis Assistant')
-st.header('To use this app you will need to have an OpenAI key ')
+st.header('To use this app you will need to have an OpenAI API key ')
 
 # In[78]:
 
