@@ -7,13 +7,13 @@
 #import streamlit as st
 import pandas as pd
 from langchain.chat_models import ChatOpenAI
-from langchain.agents import create_pandas_dataframe_agent
+from langchain_experimental.agents import create_pandas_dataframe_agent
 from langchain.agents.agent_types import AgentType
 import tabulate
 import pyarrow
 import openai
 
-
+#langchain_experimental.agents.create_pandas_dataframe_agent
 # In[75]:
 
 
