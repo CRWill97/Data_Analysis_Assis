@@ -8,7 +8,7 @@
 import pandas as pd
 from langchain.chat_models import ChatOpenAI
 from langchain_experimental.agents import create_pandas_dataframe_agent
-from langchain.agents.agent_types import AgentType
+from langchain.agents import AgentType
 import tabulate
 import pyarrow
 import openai
