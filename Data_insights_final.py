@@ -7,7 +7,7 @@
 #import streamlit as st
 import pandas as pd
 from langchain.chat_models import ChatOpenAI
-from langchain_experimental.agents import create_pandas_dataframe_agent
+from langchain_experimental.agents.agent_toolkits.spark.base import create_spark_dataframe_agent
 from langchain.agents import AgentType
 import tabulate
 import pyarrow
